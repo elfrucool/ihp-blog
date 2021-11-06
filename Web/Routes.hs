@@ -9,4 +9,4 @@ instance AutoRoute PostsController
 
 
 instance AutoRoute CommentsController
-
+instance AutoRoute HelloApiController
